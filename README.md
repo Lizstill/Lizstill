@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lizstill
 - 👀 I’m interested in developing efficiency while coding :)
-- 🌱 I’m currently learning C++ with Arduino, C on Replit, and Matlab
+- 🌱 I’m currently learning C++ with Arduino and Replit, and Matlab
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me @lizstill1@gmail.com
 
