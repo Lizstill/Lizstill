@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lizstill
+- 👋 Hi, I’m @Lizstiller
 - 👀 I’m interested in developing efficiency while coding :)
 - 🌱 I’m currently learning C++ with Arduino and Replit, and Matlab
 - 💞️ I’m looking to collaborate on anything
